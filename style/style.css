@@ -1,0 +1,40 @@
+body{
+    background-color: darkkhaki;
+    padding:0;
+}
+main{
+    border:5px solid turquoise;
+    margin:0 100px;
+}
+h1{
+    color:red;
+
+    
+}
+h2{
+    color:green
+}
+h3{
+    background-color:red;
+    color:black
+
+
+}
+.personnage{
+    padding:10px
+}
+.personnage img,.titre{
+    max-width:350px;
+    border-radius: 20px
+}
+footer{
+    text-align: center
+}
+tr:nth-child(odd){
+    background-color: bisque;
+}
+a:hover{
+    color:green;
+    font-weight: bold
+
+}
